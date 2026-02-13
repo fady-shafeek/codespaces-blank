@@ -1,0 +1,5729 @@
+{
+    "response": [
+        {
+            "id": "52ddf249-f81d-4dc9-a198-ed6c082ffe70",
+            "name": "DQ-Z1-AP-01",
+            "macAddress": "cc:6e:2a:52:d0:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 290.1167,
+                "y": 256.21036,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "cae8b261-3d50-4cea-a0b2-3e468b732f1a",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9577ad60-0d81-477e-856a-b471db1c942d",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "6edbfcf2-b928-4d6b-b33b-f3f535829a1b",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e2aded07-0a63-43a7-b169-3df4aebb3de3",
+            "name": "DQ-Z1-AP-02",
+            "macAddress": "cc:6e:2a:52:cd:b0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 291.79965,
+                "y": 229.81876,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "fbdcc25c-2c67-4a06-8cbe-c41a32be3134",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 36,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "7faddf19-a43d-4aca-8d41-70f7e9803d53",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "f3d7bb69-f336-4de3-937b-4be9beac7af5",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "d92c8d32-a23a-4cc6-af26-2c6a4f079b7e",
+            "name": "DQ-Z1-AP-03",
+            "macAddress": "cc:6e:2a:41:85:a0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 290.2236,
+                "y": 203.28606,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a02f2881-b728-472f-a4df-af0974285e0c",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "8554e843-0eea-493b-9648-d39e93858901",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "182676db-e4ce-48eb-985d-7af05a913e8f",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "991e935f-be31-4e8d-b766-cba18f472a08",
+            "name": "DQ-Z1-AP-05",
+            "macAddress": "cc:6e:2a:52:a7:60",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 267.76517,
+                "y": 233.00029,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a5fee4ae-5a28-40e4-bd75-97b0b8a1fcff",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b2aea0f2-9a64-45f4-a8ac-19d4faf554c0",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2a0e54bc-49f1-4adc-8e21-5d320f934fb4",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "de6a2dfe-ab26-43e6-a301-39baaef4f835",
+            "name": "DQ-Z1-AP-06",
+            "macAddress": "cc:6e:2a:52:c9:20",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 261.9167,
+                "y": 193.49217,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "72a82b74-209b-47f5-9e12-01bff6ef7789",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 6,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0b3f41e1-2adc-4abf-b0de-41ca5c01ad2b",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "bfa073e4-b69a-452c-adad-ec0debd84951",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "89651321-90bd-4664-b73b-1e127e65cda9",
+            "name": "DQ-Z1-AP-07",
+            "macAddress": "cc:6e:2a:52:b0:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 258.986,
+                "y": 261.49207,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "742b3c47-2910-4e4f-8b24-a3623372c030",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 64,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "494e284d-7a93-41f4-95a7-9162d9871d7a",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "568aed33-01ea-408c-abee-a5dac143af63",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "417c223f-3466-4bac-9a35-ec0a871d18c6",
+            "name": "DQ-Z1-AP-08",
+            "macAddress": "cc:6e:2a:52:d0:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 255.46,
+                "y": 213.4,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "788b17e6-5436-45fa-86b1-0f3239b18660",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3fcb730a-24fc-4681-b4c0-3b402420fd32",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "967193d1-e00f-4696-afcb-e7a464c766c1",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "742c8bea-a226-41eb-8039-3f7f3d91937f",
+            "name": "DQ-Z1-AP-09",
+            "macAddress": "cc:6e:2a:52:ca:e0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 238.66975,
+                "y": 232.46884,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "424aa194-8bd4-478f-810d-fdea244a545e",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 44,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "61600423-8da9-4612-916a-f8ae5c05b870",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b6ee1914-1599-493d-a02c-25afd69de92e",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "05087137-2125-4457-9212-3bf05d172fc8",
+            "name": "DQ-Z1-AP-10",
+            "macAddress": "cc:6e:2a:52:d1:50",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 233.75414,
+                "y": 204.12909,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "f94e0d3f-6ee5-485d-ac49-6773801becdd",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2471364d-7693-44c2-b669-c88090855de9",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "95c94ca4-2f80-47df-a604-a79be9f248ad",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "9d21ec9e-e8eb-4e3f-b1e9-c29e5cdbf9f7",
+            "name": "DQ-Z1-AP-103",
+            "macAddress": "cc:6e:2a:52:cc:b0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 74.429436,
+                "y": 117.2603,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "427eeb2e-5da1-41b4-b740-ceaa0e3acde4",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "01492f85-2477-4dab-bd2e-3ae996ceaa9d",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "224a7ab2-80fd-4a58-b0c5-5cdf566a34c1",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "321484ad-1ce6-4c3d-8e3e-97b4ead4efc6",
+            "name": "DQ-Z1-AP-104",
+            "macAddress": "cc:6e:2a:52:cd:70",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 73.04883,
+                "y": 145.18626,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "57f78651-afea-4c56-86a6-8b2f334f62fd",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "d9b11bb3-8633-4dee-a78c-6d22de7ca241",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "649ba274-8c8f-4ce1-96af-567565652cbc",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "699ec61c-1b6e-4f93-9bad-0d30d48e7044",
+            "name": "DQ-Z1-AP-105",
+            "macAddress": "cc:6e:2a:52:cd:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 67.15882,
+                "y": 168.90996,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "1df38592-9d04-4856-b000-2116733988c6",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c142213f-2d7d-4ed9-86b5-77c0f099d285",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "58bc0979-1648-4f8d-ae77-7de02e567fbd",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "f073fda4-94fe-449e-9e03-1542a018a27e",
+            "name": "DQ-Z1-AP-107",
+            "macAddress": "cc:6e:2a:52:bd:e0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 40.8038,
+                "y": 169.33504,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a11ae8bf-f332-4a9f-af19-5586e2600906",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5bc1e9aa-cc1b-44aa-8424-8d91c6de8b73",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "da74e960-1a8a-46e8-bdae-4273cd7b90c3",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "d860417b-4f5a-43ba-8d9b-f99afea78b0d",
+            "name": "DQ-Z1-AP-11",
+            "macAddress": "cc:6e:2a:52:c8:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 229.35631,
+                "y": 187.70363,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "387b49bf-75d3-4a43-b5c9-5193aa32a0f2",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "d03251f7-a146-4d24-8cc3-c01a7c815cc0",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a59a4356-f232-45f7-8b07-b01eb67e4965",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2456b140-a30c-4ee7-a46b-f572796fbb98",
+            "name": "DQ-Z1-AP-12",
+            "macAddress": "cc:6e:2a:52:c3:a0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 227.56,
+                "y": 211.14,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "7cb15ef1-ba56-4439-a3ab-abd20f97c3aa",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a232fb23-8546-4d9d-9de6-7b577e7cad7b",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c2d6aae2-c75c-403a-b955-8f03acf7c6c0",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "bef22bde-9db4-49e7-b79e-5f9eb5d91486",
+            "name": "DQ-Z1-AP-13",
+            "macAddress": "cc:6e:2a:41:9f:e0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 214.83192,
+                "y": 188.18777,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "b62c1bd7-2b48-4081-a7af-4a6233080d93",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "09907a3e-b0fb-41b1-bc35-b9dc00aa65ec",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a2324041-befa-4676-bd72-a8ebad818f53",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "f4956fb2-4d42-4d78-b840-cfa7356f8158",
+            "name": "DQ-Z1-AP-14",
+            "macAddress": "cc:6e:2a:52:cf:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 212.06,
+                "y": 215.15,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a5647168-d87f-4f63-bd30-8370d105cf87",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c870842a-aafe-4476-89f5-8f5c5c1a6103",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 36,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "985a3508-60c9-401a-b6f2-7fe1c1cac204",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "342c5332-9814-48a0-a15b-0b9b0cfc0285",
+            "name": "DQ-Z1-AP-15",
+            "macAddress": "cc:6e:2a:52:d3:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 208.97221,
+                "y": 244.3,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "1c85897a-0eb1-4701-b61a-0ad5922b7033",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3acc851e-5508-4f63-99bb-0a9f5596cd80",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a3b77cad-ef9f-4db5-9783-4e97419cf46b",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e3d27c02-b21f-4046-9d22-b37e0bcb5bf9",
+            "name": "DQ-Z1-AP-16",
+            "macAddress": "cc:6e:2a:52:cb:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 190.76276,
+                "y": 211.98283,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "8ea45359-f78e-4b31-84cd-737437dac7aa",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5143fbbc-f9e6-4e24-a9d7-8a2deade783e",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "784204ab-e22a-45e9-9461-1fbd87b3be29",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "19776d99-728c-4c6a-a231-cf30f4f42868",
+            "name": "DQ-Z1-AP-17",
+            "macAddress": "cc:6e:2a:41:69:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 185.32173,
+                "y": 197.01997,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "aa2aa1d6-086e-4927-8137-7bc1668a85eb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1852619f-8142-4432-8e96-b033012e8912",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c952d8b8-baea-4d5e-a678-a65e115d3868",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "85d2d3b3-8194-4223-8a06-ef426309b89e",
+            "name": "DQ-Z1-AP-18",
+            "macAddress": "cc:6e:2a:52:cb:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 179.60864,
+                "y": 238.09982,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "e2907447-e6a9-4fbc-a172-8987e9e38a9b",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "62d9aa48-739e-4a07-9de5-796305ed6e6f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "efb76c6f-fad0-4b8f-a364-c8f694abd259",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "afdef80d-315e-4601-abc3-d652e18d9f8c",
+            "name": "DQ-Z1-AP-19",
+            "macAddress": "cc:6e:2a:52:cc:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 167.9104,
+                "y": 222.3208,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "1ea10ede-633b-4084-8a88-9a096e1a2428",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 44,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5f5bb20b-1747-4a6a-a9c4-bfbf223c2f10",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1b86109f-ee27-4327-8f12-a5321899cd2d",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "d3fea1ff-1ccf-4d9e-9a64-3aea9b2a1ef5",
+            "name": "DQ-Z1-AP-20",
+            "macAddress": "cc:6e:2a:52:cf:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 167.63835,
+                "y": 187.77023,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "acac700c-98d0-451d-944f-a4eabac75332",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "12bf32a0-6ebf-4749-bceb-3356c2aec86a",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9752da79-96d0-452b-92c7-82c23e3531ff",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "0c0181a1-8db7-4892-a1a8-0a8f63a3e299",
+            "name": "DQ-Z1-AP-21",
+            "macAddress": "cc:6e:2a:41:a2:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 152.1314,
+                "y": 210.35054,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "c66f5e4e-2bfb-4377-8528-9882f30f226c",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9135d975-b14f-4aae-ab7f-3ccc546931dc",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "d48fa31d-a69c-4c7b-8802-42e0bf0505f2",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "beae09ab-c513-4ee3-ba2b-bf47c4b9f4dc",
+            "name": "DQ-Z1-AP-22",
+            "macAddress": "cc:6e:2a:52:bc:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 148.32268,
+                "y": 233.74698,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "8c3b81cc-0fca-4bec-8e3c-f595019eded4",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "57844b9c-5616-4fcb-989c-0ef188cdb264",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e9784bb9-e3c2-4927-85a6-a6df75d31510",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "b54eb3e9-b8af-4784-b140-b2acb309c6bf",
+            "name": "DQ-Z1-AP-23",
+            "macAddress": "cc:6e:2a:41:81:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 142.33752,
+                "y": 197.83614,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "c4a08c47-6e65-42da-9aed-e5ed642548ff",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "39f6411d-781a-404d-8f25-b0f883305622",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2078ab2d-6347-4ae6-bbc1-b41108cd1087",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "033d8d86-1a44-46de-a58b-e541a437b5b4",
+            "name": "DQ-Z1-AP-24",
+            "macAddress": "cc:6e:2a:52:c1:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 129.56398,
+                "y": 188.47473,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "3a69e01b-198e-4213-93f3-8962d738017a",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "d382e260-14b0-4ccd-8313-709d40afc64b",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "70f7e75e-9ded-4dd8-abdd-6ba8d47a6bed",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "0e78e430-bc16-4c74-b42e-97002c4f8e84",
+            "name": "DQ-Z1-AP-25",
+            "macAddress": "cc:6e:2a:52:c8:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 125.470314,
+                "y": 228.30594,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "4cc24485-b04a-4754-8a51-656e865a6fb5",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 36,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "fa08d155-4c1f-483a-96d3-92cd62831fa6",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ca72a458-7009-49be-a71c-09a305b2a3d2",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "447ed565-6afc-4078-8754-b0f21bc8057a",
+            "name": "DQ-Z1-AP-26",
+            "macAddress": "cc:6e:2a:41:86:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 102.890015,
+                "y": 197.29204,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "36d5c720-b37f-4e46-9c25-bbe0c192a845",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0b95b064-9ae5-42ee-901a-5cef43ad5df2",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a88f2c66-bbe8-4e76-bc1b-cc72b48037d4",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3210ddcb-5f01-4761-9d1c-0944938cf43b",
+            "name": "DQ-Z1-AP-27",
+            "macAddress": "cc:6e:2a:52:cc:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 87.111,
+                "y": 212.52693,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "eb476f40-0e3d-4834-a128-dc4075ab305f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "345a926c-5565-484a-8526-12974c6b3f88",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2dc19e2a-225e-4d47-abef-4b39fc057099",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "7fa415a0-ba82-43ad-a422-15c674959173",
+            "name": "DQ-Z1-AP-28",
+            "macAddress": "cc:6e:2a:52:d0:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 78.13329,
+                "y": 197.83614,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "f44a1e45-8f0f-4784-8c9c-a3cbd8a5721d",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 44,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "85a6c279-e7b0-4f29-b771-26603cdc8425",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "cfb71855-66d8-4fa8-a9e7-275805a4d053",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "c5c0c4df-f270-427a-a3d2-ecc8c60e5270",
+            "name": "DQ-Z1-AP-29",
+            "macAddress": "cc:6e:2a:52:d2:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 55.8,
+                "y": 196,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "8500d173-485d-4e3f-b928-203ad9045f53",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9f578cf1-bcaa-4a6b-ae16-7266a989865c",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "eb0af029-a9ee-4f4f-9bee-3ab24ee4ecda",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a82dff9c-a650-4b82-985d-85d7dfea5215",
+            "name": "DQ-Z2-AP-30",
+            "macAddress": "cc:6e:2a:51:dc:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 259.0478,
+                "y": 174.71173,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "9ba034ca-15bf-4b0b-a351-37d9e08a9fd1",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "aeb5a644-f868-4d2d-a5fc-fe8eac461d61",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3d38cf3b-f786-427b-8861-c8ba0948289a",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "05d8d60b-bb62-4598-b42c-2f72ac7812e5",
+            "name": "DQ-Z2-AP-31",
+            "macAddress": "cc:6e:2a:41:85:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 285.27524,
+                "y": 172.93715,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "861949d5-389c-4ab5-863a-821b4accab0f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2cc283f6-52fb-4043-a3f1-18778d20b770",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b6069fe6-5399-405e-918f-9b7922ec0046",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 48,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "62c18ef7-9172-4f88-8372-cdf9ffe8acdf",
+            "name": "DQ-Z2-AP-32",
+            "macAddress": "cc:6e:2a:52:d4:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 288.1801,
+                "y": 158.17068,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a584e2f8-bd7b-4968-92be-2b0cc066a6bb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1739dea9-1414-473f-a981-22e64a834216",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 104,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "884c0ab7-ad9f-4464-9ac3-587e51dfbee4",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2c369319-1ecc-4a0e-a5f6-66bd283f2e1c",
+            "name": "DQ-Z2-AP-33",
+            "macAddress": "cc:6e:2a:52:b7:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 269.40262,
+                "y": 154.35806,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "c99885c4-128b-4af0-91a1-22f6856b100e",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "f832be42-d238-495b-b6c2-1c25b1ee160f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "252c331d-67ae-4f0c-9d92-088e950a8460",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "b375808a-3696-47aa-be78-2f87d6c39ff8",
+            "name": "DQ-Z2-AP-34",
+            "macAddress": "cc:6e:2a:52:c9:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 256.5993,
+                "y": 145.60217,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "750f74af-d78a-4867-8bac-0729be2014fa",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c5e29723-8679-48cc-b01f-cf80f3a7db02",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 104,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "f0d3b71f-248e-4655-9161-fe6d9bafb2ff",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "b8e8e501-562a-4f33-b59a-6500bc88df85",
+            "name": "DQ-Z2-AP-35",
+            "macAddress": "cc:6e:2a:52:d3:b0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 291.32706,
+                "y": 133.96335,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "3cb52a4a-b141-4aa3-b953-170aa1a4965f",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "bbef8dec-3a9e-49ba-8403-1f59058b425e",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "eb6b5a5d-6b44-4b7b-a14b-13a28552667e",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1d66ca12-9d90-40cd-b646-de68bd360387",
+            "name": "DQ-Z2-AP-36",
+            "macAddress": "cc:6e:2a:41:85:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 280.51038,
+                "y": 126.9854,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "bd392c45-a55d-42c6-a66f-a0656909e01b",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "77c88077-e6aa-4721-b9f0-b08e9378f08a",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b94f0705-b5fb-4069-a0ad-5dcd54e06f5f",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2c5603f7-d6cd-4e4c-a7ad-5fdea4e06f45",
+            "name": "DQ-Z2-AP-37",
+            "macAddress": "cc:6e:2a:52:b5:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 257.93,
+                "y": 116.11,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "dc7297c1-790c-417e-a311-d178f6dea7ba",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0a5a260f-914d-45ec-a455-268ea2bf356e",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e2374879-d96d-45c7-b5da-1d104f2434f9",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "13c11eb3-93ce-4f77-9f64-13c6dd0aed90",
+            "name": "DQ-Z2-AP-38",
+            "macAddress": "cc:6e:2a:41:84:20",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 286.11,
+                "y": 105.6,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "6ad714d5-9030-46d0-8118-74169a40489c",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a89c0bb7-eb88-4ed9-8989-de5550c0bbf6",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e8bc1142-81d4-4f00-81b2-8ae76fc4e1fd",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a062a7d0-f517-4247-9ad5-082bc82adc4c",
+            "name": "DQ-Z2-AP-39",
+            "macAddress": "cc:6e:2a:52:cc:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 256.87134,
+                "y": 104.25029,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "18ee83a7-cf78-40a6-bc2c-00022c420906",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "29bf8f5a-9abe-47e3-9dc7-f9e653f86846",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "dfd83c67-d32d-4cd4-9299-33928b1b4cfc",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a0a4c3e7-72c1-4cc2-aba0-61c0eef96256",
+            "name": "DQ-Z2-AP-40",
+            "macAddress": "cc:6e:2a:40:f6:60",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 265.4252,
+                "y": 94.5054,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "4ff6ae68-a53f-49a6-97ba-0ba17979a5c2",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 6,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5c44607f-5117-4943-bd10-1721c64255f0",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "631146ee-f239-4802-9b29-0c7faabb6676",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e6e795eb-c77f-43de-844f-358cc0104aa7",
+            "name": "DQ-Z2-AP-41",
+            "macAddress": "cc:6e:2a:41:81:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 296.31888,
+                "y": 84.662544,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "459ddf0c-b027-489c-92d3-6929dac565c1",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b6152504-8a9e-45dc-894b-0375c24f35b7",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ac63e2a2-a64f-435f-9eb4-8ec3fa0e77bc",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "26c45023-fb50-412b-b3f8-6c58c09e4feb",
+            "name": "DQ-Z2-AP-42",
+            "macAddress": "cc:6e:2a:52:ca:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 256.0552,
+                "y": 77.0451,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "6cfb300c-855d-46bb-bafc-ef800254d230",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c157da72-1582-4803-b5b3-23a715a0c04d",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a0bdfea1-c2d5-44d4-a93e-3e4ff6c7ca48",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "27143472-4a23-49af-afc4-10f7c9f44221",
+            "name": "DQ-Z2-AP-43",
+            "macAddress": "cc:6e:2a:52:a6:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 282.37033,
+                "y": 67.15112,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "f88d1817-27ef-4ccc-8eb1-08cf13464f77",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "7f6bf786-93b5-4f1a-8ee3-d6fdfcf96b84",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "28887bf2-d300-4723-815a-71b4b1ec7702",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4a2cb393-087d-4171-98b7-67a811b6362e",
+            "name": "DQ-Z2-AP-44",
+            "macAddress": "cc:6e:2a:41:7a:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 260.6751,
+                "y": 45.462437,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "bf3aed28-85c9-4dab-93a0-e4be63426629",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3a761e74-84df-49eb-ac57-179bdf457584",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 104,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "72ec022b-e93b-492a-887f-591d7539d1b7",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2cf6934e-7a5c-4b90-b9c7-6fba14e3d19a",
+            "name": "DQ-Z2-AP-45",
+            "macAddress": "cc:6e:2a:52:c0:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 226.95515,
+                "y": 40.701973,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a339597b-54d5-40a2-9011-976e2bbd67e6",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "090da6a4-3fd2-4d51-ba12-4bd3c826ce83",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "579c31fd-e1dd-413f-85dc-df5fb16ac2e9",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3faf8969-dc82-44b2-9073-d5814177a4eb",
+            "name": "DQ-Z2-AP-46",
+            "macAddress": "cc:6e:2a:52:c8:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 176.1002,
+                "y": 18.252323,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "d89f59f9-e48b-4046-a1cf-f535e0aabf4f",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "20471475-2c4e-4545-8ac7-b3031d04d79e",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "78d01640-70ff-422c-a7a9-e913b59ae0a5",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "54bb030d-6193-444e-ba76-1de456b75349",
+            "name": "DQ-Z2-AP-47",
+            "macAddress": "cc:6e:2a:52:bf:e0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 113.40323,
+                "y": 14.379151,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "929f75f5-674d-45a8-8629-13c05fda9fc5",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0f5317fe-efa3-4154-8d9b-d7a8e775b73f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "65b1cdf1-293f-41fb-ac03-be83565bbd64",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "cd283529-4580-4d4b-942d-5adf25d12e34",
+            "name": "DQ-Z2-AP-48",
+            "macAddress": "cc:6e:2a:52:ca:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 85.32273,
+                "y": 12.684638,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "60af8e62-728b-47b1-a5a4-48f6c1cc0e55",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "96c3751e-98e3-4ba1-99e5-978aa60f6146",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "7ed62366-0808-4744-8ccb-aedf284a53a5",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -4,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "fb21ebac-f443-4d14-b5c8-0125f4315bbe",
+            "name": "DQ-Z2-AP-49",
+            "macAddress": "cc:6e:2a:52:c1:b0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 57.242237,
+                "y": 25.272448,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "2afc9fbe-7d7b-4af3-b930-1aa523fb49aa",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2299e1cb-b952-40a2-a458-085c426806c8",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "28f54d44-d13a-4dc0-a8fe-322438b6d7df",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "776f8d7e-64d5-43fe-8b93-df6f83d442cf",
+            "name": "DQ-Z2-AP-50",
+            "macAddress": "cc:6e:2a:52:c3:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 33.761135,
+                "y": 29.629768,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "55c3c2fa-c01e-41f6-a498-6d604e26f720",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0d9251dc-1cf2-4604-9dfe-a103e7968e14",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 108,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b2566221-ead6-4f41-97f9-ad524d64c381",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "6effc0e1-656a-4abd-860a-3fd77cb1b699",
+            "name": "DQ-Z2-AP-51",
+            "macAddress": "cc:6e:2a:52:ca:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 20.68918,
+                "y": 62.06759,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "f5c2025d-7963-483d-b527-bbeb84be32b7",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3fa7a76d-5a80-4483-bb94-fd39fe6a3df0",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5a8d928c-da7c-4202-9a61-718801e49566",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "d3a6a404-2bb6-4129-839e-5d1b847e984f",
+            "name": "DQ-Z2-AP-52",
+            "macAddress": "cc:6e:2a:41:89:90",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 23.836132,
+                "y": 95.95785,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "706fda55-48f5-402f-a005-85616ac3f33a",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "029c7e4b-bc44-494f-b07d-fd48258113fa",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "528bcb1c-7907-43bf-abb4-cf28b545be75",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a303f3f0-f7a2-4bb4-9766-ddaafb47477a",
+            "name": "DQ-Z3-AP-04",
+            "macAddress": "cc:6e:2a:52:c2:a0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 276.07645,
+                "y": 195.9341,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "06d204b3-28e2-4fb4-9e00-722aa54fa62d",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "723c25e2-69a9-458c-9833-e8153599607f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 6,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "8f9df7ea-f12b-4947-9ed0-8427e31bf9c7",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a087bd5f-a793-4956-b01f-666f9c6137ff",
+            "name": "DQ-Z3-AP-108",
+            "macAddress": "cc:6e:2a:52:cd:e0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 48.59,
+                "y": 85.62,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "4c2d42d0-4e57-4e28-bb67-b238ad762a97",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "87d9f92d-17c3-4394-8202-918e6083a782",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "d54c8d13-19d8-4a01-9bc2-c220ee86bf44",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "335f109e-891b-4add-a6d6-2fb97f4f7456",
+            "name": "DQ-Z3-AP-53",
+            "macAddress": "cc:6e:2a:52:c8:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 42.2337,
+                "y": 109.75603,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "fe9c1c19-ae0b-4a5c-84c3-ecc97abe386e",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ce3a52cb-5274-425b-b16e-c0d07fdae882",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0e34fc2f-9f6f-42ce-a69e-8628cf02cc50",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3f49ada1-5722-45cf-bf04-4980beb8f555",
+            "name": "DQ-Z3-AP-54",
+            "macAddress": "cc:6e:2a:52:c8:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 66.6831,
+                "y": 108.30358,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "674a9150-0197-4238-ac28-99a9afd804ed",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1d68a32b-83a3-49fe-955b-0d4d7db71b86",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a0cb370d-edcb-490a-8016-88b66a4fbd2d",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "526b72b5-517a-4155-9153-fb12cf8c5908",
+            "name": "DQ-Z3-AP-55",
+            "macAddress": "cc:6e:2a:52:cc:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 54.095284,
+                "y": 54.07917,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "b632cdf3-d805-47b5-a8b5-8026bb1fae4d",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 48,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b7a70f46-9b2a-43d6-9fe4-e13ba06af314",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "02052c73-5432-4092-878f-aa09958c3506",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "9c8c12e1-94b9-4e5a-bcbf-0dbc125f4f9c",
+            "name": "DQ-Z3-AP-56",
+            "macAddress": "cc:6e:2a:52:bf:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 63.778214,
+                "y": 99.104805,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "00eb922d-62a1-480a-bc80-6e6df8cb8140",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c50a8400-3cac-417b-9747-3ee3a64836b8",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ae842ad6-0429-4bef-b491-f33d294c0e05",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "43080ab8-0578-4a82-bfd2-db0380ab0759",
+            "name": "DQ-Z3-AP-57",
+            "macAddress": "cc:6e:2a:52:d0:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 68.37761,
+                "y": 67.63528,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "497d6586-b932-405d-bdf3-d5ff515b6eeb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "8aad31ef-7b60-4a5c-ad92-ceee901f0a0c",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 64,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e2ddf6e2-740b-46da-831b-7b79cb4a88a0",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "6e61a278-7bff-43e9-84fe-86d3cd8585ba",
+            "name": "DQ-Z3-AP-58",
+            "macAddress": "cc:6e:2a:52:cb:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 73.21907,
+                "y": 38.58648,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "1e3aeaa7-6738-4b08-a716-066d9c348275",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 108,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "8ae3c789-b1a5-47a2-85dd-9ade7d906ad2",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "937c62b8-e156-4db2-a7cc-5c510eb67512",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "fc4cb9be-0b77-42e7-88cc-b962602bac9f",
+            "name": "DQ-Z3-AP-59",
+            "macAddress": "cc:6e:2a:52:cd:60",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 71.282486,
+                "y": 81.917595,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "417f4d13-c114-4310-bceb-f65a22202c2a",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e8fc4a67-d924-40be-ba0c-93337784b0d0",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5f2c37b8-978a-4bbc-acff-bf970bd1b0d3",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1096511c-6742-48c8-bd16-df0dbc49e92a",
+            "name": "DQ-Z3-AP-60",
+            "macAddress": "cc:6e:2a:52:cf:20",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 81.20749,
+                "y": 73.44503,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "8a1f23ff-1eb3-42b8-ad2a-7357793483f0",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e6be1855-5804-483d-80ef-4730b04697a1",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "7662a6a6-72e0-4762-8299-d2bc2a323f30",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e594d273-ee14-43ad-a097-a5adeda00466",
+            "name": "DQ-Z3-AP-61",
+            "macAddress": "cc:6e:2a:52:cc:70",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 86.29103,
+                "y": 52.62673,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "cc8031dd-23c3-4d02-accb-4e2c38951b4c",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ccdd9cf6-3846-4bb8-b0fc-16b7350a3f2e",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "cac7a77a-1f4f-42b6-90b7-10a8296e3c2e",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a7c72f66-6269-4e43-b094-b86a466af231",
+            "name": "DQ-Z3-AP-62",
+            "macAddress": "cc:6e:2a:52:c6:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 87.25932,
+                "y": 26.482815,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "60b0af36-34b0-4f19-91cd-d1881850d308",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 64,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ad40c246-8040-4b76-a88d-be081cb76a0a",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "bce2266e-88c8-4feb-9cc9-6511ba0c87f3",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3ad18a3f-f83f-4d84-9214-10f836a62f43",
+            "name": "DQ-Z3-AP-63",
+            "macAddress": "cc:6e:2a:50:5e:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 95.00566,
+                "y": 78.044426,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "c765b7d7-d01e-4f85-8a0d-eeb9b44aa844",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e6769868-a50f-48f3-b6c5-c713bdb03217",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5c2b98a7-630d-41d5-a112-1028459450f2",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "5455702f-2575-4853-8888-74d63e125b0b",
+            "name": "DQ-Z3-AP-64",
+            "macAddress": "cc:6e:2a:52:cf:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 102.389656,
+                "y": 42.6855,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "35be0ebe-038f-4a85-bb68-1760045d66cb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1d5a7233-3c03-4d42-8a56-bd9935fbac83",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 48,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "cb89aeab-85cf-4d4b-8298-a1b2fa1f86d9",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "3fd61bfd-29ed-4adb-a2b9-bc8e8e60fdba",
+            "name": "DQ-Z3-AP-65",
+            "macAddress": "cc:6e:2a:52:c9:a0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 105.17274,
+                "y": 108.06151,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "6b79eb85-1408-41d7-beda-1441828b9e25",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 40,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "92b26be3-0fa9-433f-ac69-f3569eb1c09d",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0b45c3c8-b792-46c9-ba93-294d04c1a938",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "578903e5-6d44-427b-9550-e923017c058b",
+            "name": "DQ-Z3-AP-66",
+            "macAddress": "cc:6e:2a:52:b7:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 118.728836,
+                "y": 79.73894,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "337207fa-2e41-43df-ae65-bde4838ad976",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e693820f-6695-47c9-9662-9a22c7f4c742",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "f463f07c-3f4e-4267-9a11-823ec3423ebe",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ce5b7a47-5ba3-409d-8e0e-198568918d0a",
+            "name": "DQ-Z3-AP-67",
+            "macAddress": "cc:6e:2a:52:d2:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 129.38007,
+                "y": 75.381615,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "ff007388-4cbb-47e8-b148-b7a8c71b7b73",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b359c968-5ba9-4dff-b55a-8482d37f0795",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "00a25882-e824-4ff7-a56d-fd6997db25b3",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "874910a6-d870-4d5c-8661-6caf0c9102d9",
+            "name": "DQ-Z3-AP-68",
+            "macAddress": "cc:6e:2a:52:ce:20",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 132.93597,
+                "y": 65.69441,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "fbcda576-24d0-484d-8302-f18f508ee4c1",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b1e1a117-2c8c-4367-a75f-55e5d586ac39",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 108,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ba781681-cee4-4662-9d5a-b613d7dce481",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "88470c7e-579a-4bc6-ae59-62e27210a627",
+            "name": "DQ-Z3-AP-69",
+            "macAddress": "cc:6e:2a:52:d1:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 139.08492,
+                "y": 95.44732,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "59aa549b-dc2b-4baf-acdb-8466e8902223",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c5671b1b-2f08-44ce-af2d-d853f54f7ed7",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3af51c28-5c99-4d7d-aeed-abb1a16fd0e7",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "a5960940-860a-437e-8660-6787be925463",
+            "name": "DQ-Z3-AP-70",
+            "macAddress": "cc:6e:2a:52:d0:20",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 143.17824,
+                "y": 30.840134,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "0891742d-a88a-41ba-8e0b-66a796eb4d21",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "644f2359-dde1-4b3b-ae21-ee94b4425336",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "30d72152-45c6-4c76-a4e0-89ac23eccb55",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "6f69c7fe-fca5-4fcb-8874-eb3044acded3",
+            "name": "DQ-Z3-AP-71",
+            "macAddress": "cc:6e:2a:52:b0:60",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 149.71422,
+                "y": 75.381615,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "db671c96-4bed-4098-b42f-4391ed105bde",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "cf0b8ed0-cd1a-4128-9887-fa5adb6578ae",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 64,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "cc45c6b3-88be-482e-972d-f58c7220ae75",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "15339678-1393-4242-becc-827ac9ad572d",
+            "name": "DQ-Z3-AP-72",
+            "macAddress": "cc:6e:2a:52:b6:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 153.58739,
+                "y": 44.396236,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "5d37f857-4484-4807-9c99-2cb9c5bef0c1",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "62fdc60e-ed48-4794-9791-cd207e6b25bf",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 64,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "dedc98a3-4d53-4627-908d-af7fdfe99545",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "03fc2fce-5085-47f1-98f1-e88fc3abe32b",
+            "name": "DQ-Z3-AP-73",
+            "macAddress": "cc:6e:2a:52:c5:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 164.07735,
+                "y": 91.87697,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "97daa5f8-26b2-4969-b38d-4a811c6bd72b",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 132,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9909e5e2-aa23-4e68-9382-7e1c10c7563e",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "6a72edf8-5b4d-4136-b600-73c78230275e",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "51ddcee5-a736-49c4-b078-e98361f1b843",
+            "name": "DQ-Z3-AP-74",
+            "macAddress": "cc:6e:2a:41:7b:60",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 180.2053,
+                "y": 113.41899,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "871f56db-8fda-4fae-b458-5c3bd7e09a6f",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 108,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "62b0ad18-f605-45ad-9a41-a0f590b249c5",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "32c495aa-d724-497c-9019-ad6d71410aa5",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "33c4d9ee-ee14-4b04-95ee-04dc75d77905",
+            "name": "DQ-Z3-AP-75",
+            "macAddress": "cc:6e:2a:52:c2:e0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 183.60448,
+                "y": 66.66698,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "f0e06e7f-af21-4f9b-8cf3-21a31dd99c8a",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9a1aefe6-99d3-4235-b3bd-c40f02c60955",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 64,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a54281fb-a3ec-4544-bb8a-a259be6c913e",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "5f214fd7-99df-4c6e-bacc-f40d05c26575",
+            "name": "DQ-Z3-AP-76",
+            "macAddress": "cc:6e:2a:52:d0:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 188.68802,
+                "y": 87.727356,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "4c0c9877-776c-451f-a597-0d50436ff6e6",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 104,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2d72125b-1d2c-4b94-8f8f-7d25b56774f7",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "0a737abc-212e-4498-b47c-8b8d58951fff",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "f9a49238-68ec-4b61-afce-b8a9aa028edb",
+            "name": "DQ-Z3-AP-77",
+            "macAddress": "cc:6e:2a:52:ac:20",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 189.2896,
+                "y": 45.79153,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "aaa62fe7-9651-4122-b862-c1de7288dbbb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "617c5e7c-3662-44d9-95c1-1e938d35aeca",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 40,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "16b76891-6e8d-48f8-926e-b7a299a78208",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "df40b662-d05d-478c-af62-4b0c5c84887a",
+            "name": "DQ-Z3-AP-78",
+            "macAddress": "cc:6e:2a:52:c5:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 196.43434,
+                "y": 57.71027,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "21fd8059-fd05-4e2d-884f-06ba5329c6ac",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "a9cd947a-0a42-4457-a0e7-a343f8d6a419",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3ac8ea79-5eb4-4ad3-aba1-011e1c4db07d",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "02037092-9c7d-471b-86aa-0574fa4d604f",
+            "name": "DQ-Z3-AP-79",
+            "macAddress": "cc:6e:2a:52:cb:b0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 197.40265,
+                "y": 103.22005,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "01a284c4-dee1-4732-9c53-20dc0b404a25",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "fd6ec97d-0bd6-43ba-b7db-64f0ffb67209",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "46e6f1af-123f-40e9-83a3-cae065f1c75b",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "46f41b30-08e8-48ac-8663-e28fe8085ed6",
+            "name": "DQ-Z3-AP-80",
+            "macAddress": "cc:6e:2a:52:87:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 203.2124,
+                "y": 84.82248,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a3b7c367-28aa-4727-a576-db23290cbf17",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 104,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5486c2a7-a274-49ab-8b4c-32e0f868cbfb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "583ff913-33fd-478e-bcef-9a9daf85b469",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "44f695c9-c20a-42f4-b838-b3b1de891f54",
+            "name": "DQ-Z3-AP-81",
+            "macAddress": "cc:6e:2a:52:c6:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 206.60143,
+                "y": 48.027336,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a97289a5-f5d3-4cd4-94e1-ac1dbf95031b",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "83499225-a2af-4e33-bef0-e06840b44c68",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e9ff5b8d-6f86-4ee5-9a3f-84584fba0fcc",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "73cc8977-20d5-4740-bc52-5c605144bd20",
+            "name": "DQ-Z4-AP-100",
+            "macAddress": "cc:6e:2a:41:92:50",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 110.36,
+                "y": 131.78,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "710b5112-5c57-41cc-9ace-515122b057a3",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5a1ebd64-8ce5-4ee4-9a43-ae6ae4c9ef46",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c7bc1aed-8d78-49cd-952a-5ac62dcbc0d9",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 48,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "19bce1aa-0f42-4a8c-9249-d452791a2034",
+            "name": "DQ-Z4-AP-101",
+            "macAddress": "cc:6e:2a:40:2a:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 169.23451,
+                "y": 114.68753,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "b02f178e-6f0e-4c20-828d-02c48c98efb0",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e6cf2fc3-de87-40f0-b9fe-787cc9c4c392",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 52,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9fbe1365-293f-4658-b79d-c5b4364bcbf9",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1d837778-626d-4e4e-a9fe-a0ac7097e0f1",
+            "name": "DQ-Z4-AP-102",
+            "macAddress": "cc:6e:2a:52:c6:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 94.23661,
+                "y": 156.05963,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "22dcc83d-2e98-4132-8bea-9d8521627863",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "900f189f-c647-4cae-bd52-075c3b79d7c7",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2487efb9-5818-40bd-b12e-12183183d252",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "51473079-37f9-4996-a420-4f1aef3d92b5",
+            "name": "DQ-Z4-AP-106",
+            "macAddress": "cc:6e:2a:41:76:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 44.89,
+                "y": 150.12,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a7669139-2762-4e94-988d-7c43262238f6",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2959f8a2-71d7-47d4-b2e7-4d53ebdad71a",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b8c8bae3-3306-4af0-a05e-abaf04891b8c",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "dede2655-fe29-4824-b0d3-20fd606dd9c6",
+            "name": "DQ-Z4-AP-82",
+            "macAddress": "cc:6e:2a:52:d2:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 225.45851,
+                "y": 84.652084,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "96e68cae-28ef-4d48-b8bc-41aa1d0b3589",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 44,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "69eb8e37-77a5-4442-ae7a-dc809e8647dc",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "3e6fa19e-42dc-4066-a00c-a9a6075ae51a",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "19b607f1-999c-4874-8fa0-b54a9c1811ad",
+            "name": "DQ-Z4-AP-83",
+            "macAddress": "cc:6e:2a:52:c4:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 229.68094,
+                "y": 103.81499,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a157241f-35cd-45ee-96e5-30d9c392e4d1",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 40,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e7176f18-d705-4f45-9a2f-a49c578985aa",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "73c5709b-35de-4cc0-ad04-5f63bd490c5d",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "fd37b115-3af2-4a61-95fe-ba4a100db30b",
+            "name": "DQ-Z4-AP-84",
+            "macAddress": "cc:6e:2a:52:c2:d0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 242.32,
+                "y": 67.28,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "15d8c6a7-c757-4420-976e-4dffa7247474",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "79542ee3-3ffc-4571-88df-7a3304c772ef",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e125530d-e2ed-4457-85ac-4bd70813072f",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "b5928403-2f9e-40d1-9a01-f8fd6776940c",
+            "name": "DQ-Z4-AP-85",
+            "macAddress": "cc:6e:2a:52:d1:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 247.51181,
+                "y": 141.22556,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "f0a3a554-cce0-46d1-b94b-8c9cd2115993",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "feb79f79-1f7c-457b-a499-51b284eae3dd",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "893a63a3-82df-4dc4-ab6c-496606940450",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "13dcdc4a-0cee-4366-b53c-4e9759c4d9fc",
+            "name": "DQ-Z4-AP-86",
+            "macAddress": "cc:6e:2a:41:89:10",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 226.20937,
+                "y": 172.93715,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "3824fb32-5151-4a13-b994-094446795bae",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1126b3df-b78d-43da-a38e-d34ec7481141",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "aea19cbb-59e8-4116-bfe7-13189ef05cce",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "8e9a3692-cc1a-4790-a7cd-5d528cdd3b33",
+            "name": "DQ-Z4-AP-87",
+            "macAddress": "cc:6e:2a:52:d1:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 214.1057,
+                "y": 151.87677,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "86955822-cc26-4800-aaf4-4f6c1e57b697",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 40,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "6a841c8b-bb8a-4cdf-9b66-a523cd78075d",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1bbc268f-b4c1-4e26-94d9-d8db683fa6db",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "6e866c3d-209e-47ef-9572-5416b5d69868",
+            "name": "DQ-Z4-AP-88",
+            "macAddress": "cc:6e:2a:52:ce:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 212.65326,
+                "y": 120.40725,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "b8aa515d-9f52-468b-841d-75ffbb570706",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 44,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "9b789326-40f6-4138-a3fe-af8cf0e8b458",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "e8526fe9-3923-471e-9f24-15b347a45b83",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "ebff6290-dff3-438d-92ed-7701997b9cc0",
+            "name": "DQ-Z4-AP-89",
+            "macAddress": "cc:6e:2a:41:65:00",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 203.82124,
+                "y": 164.1017,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "07c79a74-84e2-4914-aa79-495c59dfdf3f",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "29e08c04-22d9-43f6-8202-6af7fafcb781",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 60,
+                    "txPower": 7,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "c6870ad3-f2a8-450e-b6c7-e9db466c3f6f",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "deddddad-55a9-451b-8ebc-416f86bb0cf4",
+            "name": "DQ-Z4-AP-90",
+            "macAddress": "cc:6e:2a:41:a0:30",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 193.2874,
+                "y": 122.343834,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "9a7c2d42-d2fc-4961-a06c-42252adee13b",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 37,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "cdfe975e-3da0-4226-b326-2ae784e0479e",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 112,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "dae2c600-2378-47bd-893f-926d596a4578",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e9ac921c-3aef-4dd5-a204-723a9da52067",
+            "name": "DQ-Z4-AP-91",
+            "macAddress": "cc:6e:2a:41:9f:b0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 189.89836,
+                "y": 146.79324,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "29233e22-496c-465a-914a-4722fe48a991",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "ba95d989-a70c-4c98-b179-89e4bf83365f",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "274e162a-3a19-47aa-80df-fa3f9697793b",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1f7e9c7e-e4ec-484c-9af9-c95ce5c8d345",
+            "name": "DQ-Z4-AP-92",
+            "macAddress": "cc:6e:2a:52:a8:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 189.9466,
+                "y": 177.7043,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "2993b82f-ca57-4f78-801a-ce889955a29b",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 12,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1360d713-14a5-485c-ad56-761d9aae2b57",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b25ecb05-92d7-444c-ab25-dcd455e2bbec",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "bc0c1bf0-d252-456c-8425-35da44f7e881",
+            "name": "DQ-Z4-AP-93",
+            "macAddress": "cc:6e:2a:52:c5:f0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 170.90298,
+                "y": 136.35242,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "a0a32f43-599a-45b0-9cc6-8edf6339f7cb",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 116,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b37c04fa-8044-4029-82d4-5c47708c0737",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 53,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "27d8e769-29fe-4666-9a9e-157ebf25da42",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "8f34eb0e-ca3c-4753-9f8c-f5ea605703e3",
+            "name": "DQ-Z4-AP-94",
+            "macAddress": "cc:6e:2a:52:af:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 163.82962,
+                "y": 168.18248,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "7727c052-f7c5-4b79-96b1-2f57999c6f27",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "2bfcb64a-cc7b-4fe3-b090-a8e2626cb965",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 8,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "13a39809-8805-4822-9380-bbcdfd8b6870",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "7b311ef9-f028-4482-8dcc-423e66b848b0",
+            "name": "DQ-Z4-AP-95",
+            "macAddress": "cc:6e:2a:52:cf:a0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 158.42885,
+                "y": 148.48775,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "b81d5892-50f1-484e-a330-58dddb4ced14",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 100,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "5b22a783-62f0-4357-b712-f612eeed4564",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "794018bf-4003-4290-a199-8fee7d066cc5",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "2ee48a1c-985d-4e35-870d-613f471edd2c",
+            "name": "DQ-Z4-AP-96",
+            "macAddress": "cc:6e:2a:52:c9:60",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 139.063,
+                "y": 126.21701,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "43574cb1-18a0-4a41-a763-8da84dace6f3",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 40,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "66db8c0a-04e1-40ad-800a-5a505758acf0",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 21,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "edfd958a-7dca-44c4-b01b-88b9741c5c3c",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4c445198-7306-4f26-b881-e3fd582e4194",
+            "name": "DQ-Z4-AP-97",
+            "macAddress": "cc:6e:2a:52:c6:80",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 137.31,
+                "y": 178.86,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "b0b50c53-aff6-43bd-b85a-3d951b952785",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 136,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "1e0cf9db-05cb-4a59-b7f3-e574daa1edcb",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 5,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "53bbb575-2244-4584-b825-79f5b7633b00",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 1,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "e6ba38f7-59cf-4d00-87de-98b355e5c861",
+            "name": "DQ-Z4-AP-98",
+            "macAddress": "cc:6e:2a:41:53:c0",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 131.55872,
+                "y": 155.26581,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "c4cc4b54-9dc9-44df-ae31-40c3190117d8",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 85,
+                    "txPower": 3,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "8a37dd4f-923a-4c4a-8de9-4db3cfc2bbe0",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 11,
+                    "txPower": -1,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "38a87998-5fe4-4aba-ae41-d299bcf66272",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 56,
+                    "txPower": -2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": "af8ffee2-17ab-4599-8bfc-d16121fcf53a",
+            "name": "DQ-Z4-AP-99",
+            "macAddress": "cc:6e:2a:41:82:40",
+            "type": "AP9176I",
+            "model": "CW9176I",
+            "position": {
+                "x": 116.4926,
+                "y": 180.69687,
+                "z": 10
+            },
+            "radios": [
+                {
+                    "id": "06d6f609-df0b-4699-b5b8-04130440407e",
+                    "bands": [
+                        6
+                    ],
+                    "channel": 69,
+                    "txPower": 9,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-6GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "6f5261e9-826d-42b5-9cf3-2e2b850d0fa0",
+                    "bands": [
+                        5
+                    ],
+                    "channel": 120,
+                    "txPower": 5,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-5GHz",
+                        "azimuth": 0
+                    }
+                },
+                {
+                    "id": "b613cd2f-d97a-490d-be69-0fa15c10c926",
+                    "bands": [
+                        2.4
+                    ],
+                    "channel": 6,
+                    "txPower": 2,
+                    "antenna": {
+                        "elevation": 0,
+                        "name": "Internal-CW9176I-x-Dual-2.4GHz",
+                        "azimuth": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "version": "1.0"
+}
